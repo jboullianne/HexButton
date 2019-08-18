@@ -1,4 +1,4 @@
 # HexButton
  Custom hexagonal shaped UIButton
 
-![HexButton Gif](/HexButton_Example.PNG)
+![HexButton Gif](/HexButton.png)
